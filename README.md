@@ -29,5 +29,8 @@ This is the basic Project using Django
 
 Project Done in early 2020 by Sai surya Teja Reddy P.
 
+![image](https://github.com/psaisuryatejareddy/Ecommerce-website-using-Django/assets/133512286/f90bb96d-83e6-4065-a6a7-aaff40ce193f)
+
+
 
    
