@@ -54,6 +54,8 @@ MIDDLEWARE = [
 
 ROOT_URLCONF = "pyshop.urls"
 
+
+
 TEMPLATES = [
     {
         "BACKEND": "django.template.backends.django.DjangoTemplates",
